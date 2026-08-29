@@ -3,7 +3,7 @@ import Loader from "./components/Loader";
 import Navbar from "./components/Navbar";
 import CursorGlow from "./components/CursorGlow";
 import PageTransition from "./components/PageTransition";
-import Register from "./pages/register";
+import Register from "./pages/Register";
 import Home from "./pages/Home";
 import Events from "./pages/Events";
 import Arena from "./pages/Arena";
