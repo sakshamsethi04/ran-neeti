@@ -10,7 +10,7 @@ import Arena from "./pages/Arena";
 import About from "./pages/About";
 
 function App() {
-  return (
+  return (  
     <>
       <CursorGlow />
 
